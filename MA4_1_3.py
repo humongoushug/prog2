@@ -4,6 +4,8 @@ Solutions to module 4
 Review date:
 """
 
+#wrote this in linux
+
 student = "Hugo Sundmark"
 reviewer = ""
 
